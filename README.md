@@ -3,7 +3,7 @@
 This is a repository which houses my solutions to the problems in the Little Book Of Programming Challenges.
 
 ## List of solutions 
-- [ ] Challenge 1 
+- [x] Challenge 1 
 - [ ] Challenge 2 
 - [ ] Challenge 3 
 - [ ] Challenge 4 
