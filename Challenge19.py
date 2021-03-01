@@ -1,5 +1,5 @@
 #list of alphabets
-global alpha
+g.lobal alpha
 alpha = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"]
 #encrypting function that takes two params : text  and key , text being a string and key being a list 
 def encrypt(text,key):
